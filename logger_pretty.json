@@ -1,0 +1,109 @@
+{
+    "asctime": "2024-01-16 12:24:04,907",
+    "levelname": "INFO",
+    "message": "Watching for file changes with StatReloader",
+    "request": null,
+    "status_code": null,
+    "datasize": null,
+    "headers": null,
+    "session_id": null
+}
+{
+    "asctime": "2024-01-16 12:24:10,804",
+    "levelname": "INFO",
+    "message": "Request processed",
+    "request": "<WSGIRequest: GET '/'>",
+    "status_code": 200,
+    "datasize": 1024,
+    "headers": "{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '\"Not_A Brand\";v=\"8\", \"Chromium\";v=\"120\", \"Google Chrome\";v=\"120\"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '\"macOS\"', 'Dnt': '1', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'en-US,en;q=0.9,hi;q=0.8', 'Cookie': 'PGADMIN_LANGUAGE=en; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzd2F5YW1iaHVAcGFya2V6LmNvbSIsImV4cCI6MTY5NjI3NjQ5M30.BtkLhkPkrHqORPU8bEtiTOs4GyVYWp0cAVX8MN7TTOE; csrftoken=ZuY6YD2qAGo8ghhsgPcDw7DehLnhDgJZ'}",
+    "session_id": null
+}
+{
+    "asctime": "2024-01-16 12:24:10,977",
+    "levelname": "INFO",
+    "message": "Request processed",
+    "request": "<WSGIRequest: GET '/'>",
+    "status_code": 200,
+    "datasize": 1024,
+    "headers": "{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36', 'Dnt': '1', 'Accept': '*/*', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'en-US,en;q=0.9,hi;q=0.8', 'Cookie': 'PGADMIN_LANGUAGE=en; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzd2F5YW1iaHVAcGFya2V6LmNvbSIsImV4cCI6MTY5NjI3NjQ5M30.BtkLhkPkrHqORPU8bEtiTOs4GyVYWp0cAVX8MN7TTOE; csrftoken=wmFzxPek2FlZG0M1RGUkgH5Ny0S2M1PIlGtvli6AsbzXM7TjXlWNCEyRFB59f7ox'}",
+    "session_id": null
+}{
+    "asctime": "2024-01-16 12:25:57,701",
+    "levelname": "INFO",
+    "message": "/Volumes/Programming/BNY/Blog-master/home/views.py changed, reloading.",
+    "request": null,
+    "status_code": null,
+    "datasize": null,
+    "headers": null,
+    "session_id": null
+}
+{
+    "asctime": "2024-01-16 12:25:57,714",
+    "levelname": "DEBUG",
+    "message": "Using selector: KqueueSelector",
+    "request": null,
+    "status_code": null,
+    "datasize": null,
+    "headers": null,
+    "session_id": null
+}
+{
+    "asctime": "2024-01-16 12:25:58,807",
+    "levelname": "INFO",
+    "message": "Watching for file changes with StatReloader",
+    "request": null,
+    "status_code": null,
+    "datasize": null,
+    "headers": null,
+    "session_id": null
+}
+{
+    "asctime": "2024-01-16 12:25:59,915",
+    "levelname": "INFO",
+    "message": "/Volumes/Programming/BNY/Blog-master/home/views.py changed, reloading.",
+    "request": null,
+    "status_code": null,
+    "datasize": null,
+    "headers": null,
+    "session_id": null
+}
+{
+    "asctime": "2024-01-16 12:25:59,915",
+    "levelname": "DEBUG",
+    "message": "Using selector: KqueueSelector",
+    "request": null,
+    "status_code": null,
+    "datasize": null,
+    "headers": null,
+    "session_id": null
+}
+{
+    "asctime": "2024-01-16 12:26:00,162",
+    "levelname": "INFO",
+    "message": "Watching for file changes with StatReloader",
+    "request": null,
+    "status_code": null,
+    "datasize": null,
+    "headers": null,
+    "session_id": null
+}
+{
+    "asctime": "2024-01-16 12:26:06,888",
+    "levelname": "INFO",
+    "message": "Request processed",
+    "request": "<WSGIRequest: GET '/'>",
+    "status_code": 200,
+    "datasize": 1024,
+    "headers": "{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '\"Not_A Brand\";v=\"8\", \"Chromium\";v=\"120\", \"Google Chrome\";v=\"120\"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '\"macOS\"', 'Dnt': '1', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'en-US,en;q=0.9,hi;q=0.8', 'Cookie': 'PGADMIN_LANGUAGE=en; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzd2F5YW1iaHVAcGFya2V6LmNvbSIsImV4cCI6MTY5NjI3NjQ5M30.BtkLhkPkrHqORPU8bEtiTOs4GyVYWp0cAVX8MN7TTOE; csrftoken=wmFzxPek2FlZG0M1RGUkgH5Ny0S2M1PIlGtvli6AsbzXM7TjXlWNCEyRFB59f7ox'}",
+    "session_id": null
+}
+{
+    "asctime": "2024-01-16 12:26:07,182",
+    "levelname": "INFO",
+    "message": "Request processed",
+    "request": "<WSGIRequest: GET '/'>",
+    "status_code": 200,
+    "datasize": 1024,
+    "headers": "{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36', 'Dnt': '1', 'Accept': '*/*', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'en-US,en;q=0.9,hi;q=0.8', 'Cookie': 'PGADMIN_LANGUAGE=en; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzd2F5YW1iaHVAcGFya2V6LmNvbSIsImV4cCI6MTY5NjI3NjQ5M30.BtkLhkPkrHqORPU8bEtiTOs4GyVYWp0cAVX8MN7TTOE; csrftoken=wmFzxPek2FlZG0M1RGUkgH5Ny0S2M1PIlGtvli6AsbzXM7TjXlWNCEyRFB59f7ox'}",
+    "session_id": null
+}

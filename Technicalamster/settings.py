@@ -12,6 +12,8 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 
 import os
 from django.contrib.messages import constants as messages
+from request_logging import middleware
+
 # import django_heroku
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
@@ -41,13 +43,19 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'home.apps.HomeConfig',
     'blog.apps.BlogConfig',
-    'django.contrib.humanize'
+    'django.contrib.humanize',
+    'request_logging',
+    'debug_toolbar',
+    
 ]
 
 MIDDLEWARE = [
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
+    'request_logging.middleware.LoggingMiddleware',
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
@@ -105,6 +113,10 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 
+INTERNAL_IPS = [
+    '127.0.0.1',
+]
+
 # Internationalization
 # https://docs.djangoproject.com/en/3.0/topics/i18n/
 
@@ -134,5 +146,62 @@ MESSAGE_TAGS = {
 }
 STATIC_ROOT = os.path.join(BASE_DIR, '/static')
 
+# settings.py
+import logging
+from pythonjsonlogger import jsonlogger
+
+# LOGGING = {
+#     'version': 1,
+#     'disable_existing_loggers': False,
+#     'formatters': {
+#         'custom': {
+#             '()': jsonlogger.JsonFormatter,
+#             'format': '%(asctime)s %(remote_host)s %(user)s %(auth_user)s %(date)s %(request)s %(status_code)s %(bytes_transferred)s',
+#         },
+#     },
+#     'handlers': {
+#         'file_request': {
+#             'class': 'logging.FileHandler',
+#             'filename': 'logger_request.txt',
+#             'level': 'DEBUG',
+#             'formatter': 'custom',
+#         },
+#         'file_response': {
+#             'class': 'logging.FileHandler',
+#             'filename': 'logger_response.json',
+#             'level': 'DEBUG',
+#             'formatter': 'custom',
+#         },
+#     },
+#     'loggers': {
+#         'django.request': {
+#             'handlers': ['file_request'],
+#             'level': 'DEBUG',
+#             'propagate': True,
+#         },
+#         'django.server': {
+#             'handlers': ['file_response'],
+#             'level': 'DEBUG',
+#             'propagate': True,
+#         },
+#     },
+# }
 
 # django_heroku.settings(locals())
+
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'handlers': {
+        'console': {
+            'class': 'logging.StreamHandler',
+        },
+    },
+    'loggers': {
+        'django.request': {
+            'handlers': ['console'],
+            'level': 'DEBUG',  # change debug level as appropiate
+            'propagate': False,
+        },
+    },
+}

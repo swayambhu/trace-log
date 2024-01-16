@@ -1,0 +1,3 @@
+{"asctime": "2024-01-16 12:24:03,491", "levelname": "INFO", "message": "Watching for file changes with StatReloader", "request": null, "status_code": null, "datasize": null, "headers": null, "session_id": null}
+{"asctime": "2024-01-16 12:24:04,644", "levelname": "INFO", "message": "/Volumes/Programming/BNY/Blog-master/Technicalamster/settings.py changed, reloading.", "request": null, "status_code": null, "datasize": null, "headers": null, "session_id": null}
+{"asctime": "2024-01-16 12:24:04,644", "levelname": "DEBUG", "message": "Using selector: KqueueSelector", "request": null, "status_code": null, "datasize": null, "headers": null, "session_id": null}

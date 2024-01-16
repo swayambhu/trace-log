@@ -5,10 +5,36 @@ from django.contrib import messages
 from blog.models import Post
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.models import User
+import logging
+from django.utils import timezone
 
+logger = logging.getLogger(__name__)
 
 def home(request):
-    return render(request, 'home/home.html')
+    
+    response = render(request, 'home/home.html')
+     # Log request details
+    logger.info('Request processed', extra={
+        'remote_host': request.META.get('REMOTE_ADDR', ''),
+        'user': request.META.get('REMOTE_USER', ''),
+        'auth_user': request.user.username if request.user.is_authenticated else '',
+        'date': timezone.now().strftime('%Y-%m-%d %H:%M:%S %z'),  # Add the actual date formatting logic
+        'request': f"{request.method} {request.path} {request.META.get('SERVER_PROTOCOL', '')}",
+        'status_code': '',  # Add the actual status code
+        'bytes_transferred': len(response.content) if response else 0,
+    })
+    
+    
+    logger.info('Response sent', extra={
+        'remote_host': request.META.get('REMOTE_ADDR', ''),
+        'user': request.META.get('REMOTE_USER', ''),
+        'auth_user': request.user.username if request.user.is_authenticated else '',
+        'date': timezone.now().strftime('%Y-%m-%d %H:%M:%S %z'), # Add the actual date formatting logic
+        'request': f"{request.method} {request.path} {request.META.get('SERVER_PROTOCOL', '')}",
+        'status_code': response.status_code if response else 0,
+        'bytes_transferred': len(response.content) if response else 0,
+    })
+    return response
 
 
 def contact(request):

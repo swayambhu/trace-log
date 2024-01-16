@@ -1,0 +1,22 @@
+{
+    "asctime": "2024-01-16 14:27:21,702",
+    "remote_host": null,
+    "user": null,
+    "auth_user": null,
+    "date": null,
+    "request": "<socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 60432)>",
+    "status_code": 200,
+    "bytes_transferred": null,
+    "server_time": "16/Jan/2024 14:27:21"
+}
+{
+    "asctime": "2024-01-16 14:27:21,885",
+    "remote_host": null,
+    "user": null,
+    "auth_user": null,
+    "date": null,
+    "request": "<socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 60438)>",
+    "status_code": 200,
+    "bytes_transferred": null,
+    "server_time": "16/Jan/2024 14:27:21"
+}
