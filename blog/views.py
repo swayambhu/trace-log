@@ -2,6 +2,8 @@ from django.shortcuts import render, HttpResponse, redirect
 from blog.models import Post, BlogComment
 from django.contrib import messages
 from blog.templatetags import extras
+from django.views.decorators.csrf import csrf_exempt
+
 
 # Create your views here.
 
@@ -11,7 +13,7 @@ def blogHome(request):
     context = {'allPosts': allPosts}
     return render(request, 'blog/blogHome.html', context)
 
-
+@csrf_exempt
 def blogPost(request, slug):
     post = Post.objects.filter(slug=slug).first()
     post.views = post.views + 1
@@ -28,7 +30,7 @@ def blogPost(request, slug):
                'user': request.user, 'replyDict': replyDict}
     return render(request, 'blog/blogPost.html', context)
 
-
+@csrf_exempt
 def postComment(request):
     if request.method == "POST":
         comment = request.POST.get("comment")

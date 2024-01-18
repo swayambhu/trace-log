@@ -7,6 +7,8 @@ from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.models import User
 import logging
 from django.utils import timezone
+from django.views.decorators.csrf import csrf_exempt
+
 
 logger = logging.getLogger(__name__)
 
@@ -72,7 +74,7 @@ def search(request):
     params = {'allPosts': allPosts, 'query': query}
     return render(request, 'home/search.html', params)
 
-
+@csrf_exempt
 def handleSignup(request):
     if request.method == 'POST':
         # Get the post parameters
@@ -109,7 +111,7 @@ def handleSignup(request):
     else:
         request.HttpResponse('404-Not Found!!')
 
-
+@csrf_exempt
 def handleLogin(request):
     if request.method == 'POST':
         # Get the post parameters
