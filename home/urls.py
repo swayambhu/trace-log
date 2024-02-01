@@ -10,6 +10,8 @@ urlpatterns = [
     path('login', views.handleLogin, name='views.handleLogin'),
     path('logout', views.handleLogout, name='views.handleLogout'),
     path('signup', views.handleSignup, name='views.handleSignup'),
+    path('getUserIp', views.getUserIPAddress, name='views.getUserIPAddress'),
+    path('client-log', views.storeClientLogs, name='views.storeClientLogs'),
 
 
 
