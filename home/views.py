@@ -8,7 +8,8 @@ from django.contrib.auth.models import User
 import logging
 from django.utils import timezone
 from django.views.decorators.csrf import csrf_exempt
-
+from django.http import JsonResponse
+import json
 
 logger = logging.getLogger(__name__)
 
@@ -134,3 +135,53 @@ def handleLogout(request):
     logout(request)
     messages.success(request, 'Successfully logged out')
     return redirect('home')
+
+def getUserIPAddress(request):
+    x_forwarded_for = request.META.get('HTTP_X_FORWARDED_FOR')
+    session = request.session
+    try:
+        session_hash = session['_auth_user_hash']
+    except:
+        session_hash = "NON LOGGED IN USER"
+        
+    if x_forwarded_for:
+        ip = x_forwarded_for.split(',')[0]
+    else:
+        ip = request.META.get('REMOTE_ADDR')
+        
+    if request.user.is_authenticated:
+        username = request.user.username
+    else:
+        username = "NON LOGGED IN USER"
+    
+    data = {
+        "ip_address": ip,
+        "session_hash": session_hash,
+        "username": username
+    }
+    
+    
+    return JsonResponse(data)
+
+
+@csrf_exempt
+def storeClientLogs(request):
+    if request.method == "POST":
+        logs = json.loads(request.body.decode("utf-8"))
+
+        # Try to read existing logs, initialize as an empty list if the file is empty or not found
+        try:
+            with open('Client_logger_new.json', 'r') as file:
+                existing_logs = json.load(file)
+        except (FileNotFoundError, json.JSONDecodeError):
+            existing_logs = []
+
+        # Combine existing logs with new logs
+        combined_logs = existing_logs + logs
+
+        # Write the combined logs back to the file
+        with open('Client_logger_new.json', 'w') as file:
+            file.write(json.dumps(combined_logs, indent=2))
+            file.write('\n')
+
+        return JsonResponse({"status": "Success"})

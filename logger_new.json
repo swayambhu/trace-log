@@ -1,0 +1,222 @@
+[
+  {
+    "traceId": "e4eb6495-5a9c-4669-9a63-adedfbab20c9",
+    "spanId": "88484a30-3b44-4bc8-95db-55caa601af06",
+    "timestamp": "2024-02-01T15:42:40.000Z",
+    "principal": "NON LOGGED IN USER",
+    "session": "NON LOGGED IN USER",
+    "username": "NON LOGGED IN USER",
+    "ip": "170.61.245.98",
+    "request": {
+      "method": "GET",
+      "uri": "http://0705-170-61-245-98.ngrok-free.app/getUserIp",
+      "headers": {
+        "Content-Length": "",
+        "Content-Type": "text/plain",
+        "Host": "0705-170-61-245-98.ngrok-free.app",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9,hi;q=0.8",
+        "Cookie": "csrftoken=t4gVKCn8Nndly8I0u53Yo9dtlLNiK7H1",
+        "Dnt": "1",
+        "Referer": "https://0705-170-61-245-98.ngrok-free.app/",
+        "Sec-Ch-Ua": "\"Not A(Brand\";v=\"99\", \"Google Chrome\";v=\"121\", \"Chromium\";v=\"121\"",
+        "Sec-Ch-Ua-Mobile": "?0",
+        "Sec-Ch-Ua-Platform": "\"macOS\"",
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "same-origin",
+        "X-Forwarded-For": "170.61.245.98",
+        "X-Forwarded-Host": "0705-170-61-245-98.ngrok-free.app",
+        "X-Forwarded-Proto": "https"
+      },
+      "remoteAddress": "170.61.245.98"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "X-Trace-ID": "e4eb6495-5a9c-4669-9a63-adedfbab20c9"
+      }
+    },
+    "timeTaken": 0
+  },
+  {
+    "traceId": "956e0ca6-41c0-4b14-8598-a932e58b226a",
+    "spanId": "e8291389-0ae4-4f70-987c-45e924d74985",
+    "timestamp": "2024-02-01T15:42:46.000Z",
+    "principal": "NON LOGGED IN USER",
+    "session": "NON LOGGED IN USER",
+    "username": "NON LOGGED IN USER",
+    "ip": "170.61.245.98",
+    "request": {
+      "method": "POST",
+      "uri": "http://0705-170-61-245-98.ngrok-free.app/client-log",
+      "headers": {
+        "Content-Length": "1118",
+        "Content-Type": "application/json",
+        "Host": "0705-170-61-245-98.ngrok-free.app",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9,hi;q=0.8",
+        "Cookie": "csrftoken=t4gVKCn8Nndly8I0u53Yo9dtlLNiK7H1",
+        "Dnt": "1",
+        "Origin": "https://0705-170-61-245-98.ngrok-free.app",
+        "Referer": "https://0705-170-61-245-98.ngrok-free.app/",
+        "Sec-Ch-Ua": "\"Not A(Brand\";v=\"99\", \"Google Chrome\";v=\"121\", \"Chromium\";v=\"121\"",
+        "Sec-Ch-Ua-Mobile": "?0",
+        "Sec-Ch-Ua-Platform": "\"macOS\"",
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "same-origin",
+        "X-Forwarded-For": "170.61.245.98",
+        "X-Forwarded-Host": "0705-170-61-245-98.ngrok-free.app",
+        "X-Forwarded-Proto": "https"
+      },
+      "remoteAddress": "170.61.245.98"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "X-Trace-ID": "956e0ca6-41c0-4b14-8598-a932e58b226a"
+      }
+    },
+    "timeTaken": 3
+  },
+  {
+    "traceId": "777077cb-a6b1-4c18-837e-c9374e811863",
+    "spanId": "b7ec443d-c8d9-4c5c-aedf-d55e0b2dbdd7",
+    "timestamp": "2024-02-01T15:42:48.000Z",
+    "principal": "test123",
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123",
+    "ip": "170.61.245.98",
+    "request": {
+      "method": "POST",
+      "uri": "http://0705-170-61-245-98.ngrok-free.app/login",
+      "headers": {
+        "Content-Length": "124",
+        "Content-Type": "application/x-www-form-urlencoded",
+        "Host": "0705-170-61-245-98.ngrok-free.app",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9,hi;q=0.8",
+        "Cache-Control": "max-age=0",
+        "Cookie": "csrftoken=t4gVKCn8Nndly8I0u53Yo9dtlLNiK7H1",
+        "Dnt": "1",
+        "Origin": "https://0705-170-61-245-98.ngrok-free.app",
+        "Referer": "https://0705-170-61-245-98.ngrok-free.app/",
+        "Sec-Ch-Ua": "\"Not A(Brand\";v=\"99\", \"Google Chrome\";v=\"121\", \"Chromium\";v=\"121\"",
+        "Sec-Ch-Ua-Mobile": "?0",
+        "Sec-Ch-Ua-Platform": "\"macOS\"",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "same-origin",
+        "Sec-Fetch-User": "?1",
+        "Upgrade-Insecure-Requests": "1",
+        "X-Forwarded-For": "170.61.245.98",
+        "X-Forwarded-Host": "0705-170-61-245-98.ngrok-free.app",
+        "X-Forwarded-Proto": "https"
+      },
+      "remoteAddress": "170.61.245.98"
+    },
+    "response": {
+      "status": 302,
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8",
+        "Location": "/",
+        "X-Trace-ID": "777077cb-a6b1-4c18-837e-c9374e811863"
+      }
+    },
+    "timeTaken": 625
+  },
+  {
+    "traceId": "f260df34-d747-4135-ac70-77094e3b49c6",
+    "spanId": "15480b7f-d9ae-4fde-884a-4e932456a20c",
+    "timestamp": "2024-02-01T15:42:48.000Z",
+    "principal": "test123",
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123",
+    "ip": "170.61.245.98",
+    "request": {
+      "method": "GET",
+      "uri": "http://0705-170-61-245-98.ngrok-free.app/",
+      "headers": {
+        "Content-Length": "",
+        "Content-Type": "text/plain",
+        "Host": "0705-170-61-245-98.ngrok-free.app",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9,hi;q=0.8",
+        "Cache-Control": "max-age=0",
+        "Cookie": "messages=W1siX19qc29uX21lc3NhZ2UiLDAsMjUsIlN1Y2Nlc3NmdWxseSBsb2dnZWQgaW4iLCIiXV0:1rVZDE:Ve7ovsmFq_nCKfMrkd7vMf9gjNKfc-YrsBXHWWu6p6c; csrftoken=aR1T3V3480MSjbvL43tZ6E962uT71lDS; sessionid=ct5lt880i2wn2aeppjzsdldncobk8mj2",
+        "Dnt": "1",
+        "Referer": "https://0705-170-61-245-98.ngrok-free.app/",
+        "Sec-Ch-Ua": "\"Not A(Brand\";v=\"99\", \"Google Chrome\";v=\"121\", \"Chromium\";v=\"121\"",
+        "Sec-Ch-Ua-Mobile": "?0",
+        "Sec-Ch-Ua-Platform": "\"macOS\"",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "same-origin",
+        "Sec-Fetch-User": "?1",
+        "Upgrade-Insecure-Requests": "1",
+        "X-Forwarded-For": "170.61.245.98",
+        "X-Forwarded-Host": "0705-170-61-245-98.ngrok-free.app",
+        "X-Forwarded-Proto": "https"
+      },
+      "remoteAddress": "170.61.245.98"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8",
+        "X-Trace-ID": "f260df34-d747-4135-ac70-77094e3b49c6"
+      }
+    },
+    "timeTaken": 86
+  },
+  {
+    "traceId": "fcb65e1c-bd00-4433-aa4a-34c275410f03",
+    "spanId": "5ea9ef73-ed7a-443b-9ba8-4541379aba3c",
+    "timestamp": "2024-02-01T15:42:49.000Z",
+    "principal": "test123",
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123",
+    "ip": "170.61.245.98",
+    "request": {
+      "method": "GET",
+      "uri": "http://0705-170-61-245-98.ngrok-free.app/",
+      "headers": {
+        "Content-Length": "",
+        "Content-Type": "text/plain",
+        "Host": "0705-170-61-245-98.ngrok-free.app",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9,hi;q=0.8",
+        "Cookie": "csrftoken=aR1T3V3480MSjbvL43tZ6E962uT71lDS; sessionid=ct5lt880i2wn2aeppjzsdldncobk8mj2",
+        "Dnt": "1",
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "none",
+        "X-Forwarded-For": "170.61.245.98",
+        "X-Forwarded-Host": "0705-170-61-245-98.ngrok-free.app",
+        "X-Forwarded-Proto": "https"
+      },
+      "remoteAddress": "170.61.245.98"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8",
+        "X-Trace-ID": "fcb65e1c-bd00-4433-aa4a-34c275410f03"
+      }
+    },
+    "timeTaken": 9
+  }
+]
