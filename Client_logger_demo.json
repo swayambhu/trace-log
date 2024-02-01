@@ -1,0 +1,497 @@
+[
+  {
+    "timestamp": "2024-01-30T20:34:10.296Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/div[3]/div[2]/ul[2]/li[1]/a[1]/strong[1]",
+    "location": "https://52fe-170-61-245-98.ngrok-free.app/contact",
+    "ipAddress": "10.203.212.153",
+    "sessionId": "e64d51dab99f129e349d8fd06b39572b4d8953ebe1c578ba660b101c40b07ff3",
+    "username": "demo123"
+  },
+  {
+    "timestamp": "2024-01-30T20:34:11.870Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/div[3]/div[2]/ul[2]/li[1]/div[2]/a[1]",
+    "location": "https://52fe-170-61-245-98.ngrok-free.app/contact",
+    "ipAddress": "10.203.212.153",
+    "sessionId": "e64d51dab99f129e349d8fd06b39572b4d8953ebe1c578ba660b101c40b07ff3",
+    "username": "demo123"
+  },
+  {
+    "timestamp": "2024-01-30T20:34:20.509Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/div[3]/div[2]/button[2]",
+    "location": "https://52fe-170-61-245-98.ngrok-free.app/",
+    "ipAddress": "10.203.212.153",
+    "sessionId": "NON LOGGED IN USER",
+    "username": "NON LOGGED IN USER"
+  },
+  {
+    "timestamp": "2024-01-30T20:34:22.772Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]",
+    "location": "https://52fe-170-61-245-98.ngrok-free.app/",
+    "ipAddress": "10.203.212.153",
+    "sessionId": "NON LOGGED IN USER",
+    "username": "NON LOGGED IN USER"
+  },
+  {
+    "timestamp": "2024-01-30T20:34:23.882Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[2]/input[2]",
+    "location": "https://52fe-170-61-245-98.ngrok-free.app/",
+    "ipAddress": "10.203.212.153",
+    "sessionId": "NON LOGGED IN USER",
+    "username": "NON LOGGED IN USER"
+  },
+  {
+    "timestamp": "2024-01-30T20:34:26.878Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[3]/input[2]",
+    "location": "https://52fe-170-61-245-98.ngrok-free.app/",
+    "ipAddress": "10.203.212.153",
+    "sessionId": "NON LOGGED IN USER",
+    "username": "NON LOGGED IN USER"
+  },
+  {
+    "timestamp": "2024-01-30T20:34:30.775Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/button[4]",
+    "location": "https://52fe-170-61-245-98.ngrok-free.app/",
+    "ipAddress": "10.203.212.153",
+    "sessionId": "NON LOGGED IN USER",
+    "username": "NON LOGGED IN USER"
+  },
+  {
+    "timestamp": "2024-01-30T20:34:36.112Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+    "location": "https://52fe-170-61-245-98.ngrok-free.app/contact",
+    "ipAddress": "10.203.212.153",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-30T20:34:51.075Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[5]/form[2]/button[6]",
+    "location": "https://52fe-170-61-245-98.ngrok-free.app/contact",
+    "ipAddress": "10.203.212.153",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-30T20:37:38.055Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/div[3]/div[2]/form[1]/input[1]",
+    "location": "https://52fe-170-61-245-98.ngrok-free.app/blog/",
+    "ipAddress": "10.203.212.153",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-30T20:37:42.276Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/div[3]/div[2]/form[1]/button[2]",
+    "location": "https://52fe-170-61-245-98.ngrok-free.app/blog/",
+    "ipAddress": "10.203.212.153",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T19:57:57.039Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/div[3]/ul[1]/li[3]/a[1]",
+    "location": "http://127.0.0.1:8000/",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T19:58:24.255Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/div[3]/ul[1]/li[3]/a[1]",
+    "location": "http://127.0.0.1:8000/",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T21:25:02.513Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/div[3]/ul[1]/li[1]/a[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T21:25:10.312Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/div[3]/ul[1]/li[1]/a[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:09:42.251Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[4]/div[1]",
+    "location": "http://127.0.0.1:8000/",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:09:43.118Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[4]/div[1]/p[2]",
+    "location": "http://127.0.0.1:8000/",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:09:44.352Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[4]/div[1]",
+    "location": "http://127.0.0.1:8000/",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:09:51.718Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[4]/div[1]/a[5]",
+    "location": "http://127.0.0.1:8000/",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:09:51.720Z",
+    "action": "Click",
+    "xpath": null,
+    "location": "http://127.0.0.1:8000/",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:12:00.268Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/button[2]/span[1]",
+    "location": "http://127.0.0.1:8000/",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:12:01.867Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/div[3]/div[2]/form[1]/button[2]",
+    "location": "http://127.0.0.1:8000/",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:29:43.849Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[5]/div[2]/div[1]/div[1]/a[5]",
+    "location": "http://127.0.0.1:8000/",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:30:19.816Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[4]/div[1]/a[5]",
+    "location": "http://127.0.0.1:8000/#",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:33:24.965Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[5]/div[2]/div[1]/div[1]/a[5]",
+    "location": "http://127.0.0.1:8000/",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:33:34.765Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[5]/div[2]/div[1]/div[1]/a[5]",
+    "location": "http://127.0.0.1:8000/#",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:33:44.131Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/button[2]/span[1]",
+    "location": "http://127.0.0.1:8000/#",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:33:45.897Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/div[3]/ul[1]/li[2]/a[1]",
+    "location": "http://127.0.0.1:8000/#",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:53:18.998Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[2]/strong[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:44.099Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/a[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:53:18.998Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[2]/strong[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:44.099Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/a[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:56.065Z",
+    "action": "Click",
+    "xpath": "/html[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:56.599Z",
+    "action": "Click",
+    "xpath": "/html[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:57.166Z",
+    "action": "Click",
+    "xpath": "/html[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:57.549Z",
+    "action": "Click",
+    "xpath": "/html[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:58.799Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/a[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:53:18.998Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[2]/strong[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:44.099Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/a[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:56.065Z",
+    "action": "Click",
+    "xpath": "/html[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:56.599Z",
+    "action": "Click",
+    "xpath": "/html[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:57.166Z",
+    "action": "Click",
+    "xpath": "/html[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:57.549Z",
+    "action": "Click",
+    "xpath": "/html[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:58.799Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/a[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:53:18.998Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[2]/strong[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:44.099Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/a[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:56.065Z",
+    "action": "Click",
+    "xpath": "/html[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:56.599Z",
+    "action": "Click",
+    "xpath": "/html[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:57.166Z",
+    "action": "Click",
+    "xpath": "/html[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:57.549Z",
+    "action": "Click",
+    "xpath": "/html[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:55:58.799Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/a[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:56:11.017Z",
+    "action": "Click",
+    "xpath": "/html[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:56:11.632Z",
+    "action": "Click",
+    "xpath": "/html[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:56:12.248Z",
+    "action": "Click",
+    "xpath": "/html[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-31T23:56:13.583Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/a[1]",
+    "location": "http://127.0.0.1:8000/about",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  }
+]
