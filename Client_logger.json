@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "2024-01-25T14:46:48.702Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/div[3]/div[2]/button[2]",
+    "location": "http://127.0.0.1:8000/",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "NON LOGGED IN USER",
+    "username": "NON LOGGED IN USER"
+  },
+  {
+    "timestamp": "2024-01-25T14:46:49.767Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[2]/div[1]/div[1]/div[2]/form[1]/div[2]/input[2]",
+    "location": "http://127.0.0.1:8000/",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "NON LOGGED IN USER",
+    "username": "NON LOGGED IN USER"
+  },
+  {
+    "timestamp": "2024-01-25T14:46:51.467Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[2]/div[1]/div[1]/div[2]/form[1]/div[3]/input[2]",
+    "location": "http://127.0.0.1:8000/",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "NON LOGGED IN USER",
+    "username": "NON LOGGED IN USER"
+  },
+  {
+    "timestamp": "2024-01-25T14:46:55.084Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[2]/div[1]/div[1]/div[2]/form[1]/button[4]",
+    "location": "http://127.0.0.1:8000/",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "NON LOGGED IN USER",
+    "username": "NON LOGGED IN USER"
+  },
+  {
+    "timestamp": "2024-01-25T14:47:07.203Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[5]/div[2]/form[1]/div[2]/input[2]",
+    "location": "http://127.0.0.1:8000/blog/tst-blog",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-25T14:47:09.801Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/div[4]/p[2]/a[1]",
+    "location": "http://127.0.0.1:8000/blog/tst-blog",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-25T14:47:16.600Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/div[3]/div[2]/form[1]/input[1]",
+    "location": "http://127.0.0.1:8000/",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  },
+  {
+    "timestamp": "2024-01-25T14:47:19.300Z",
+    "action": "Click",
+    "xpath": "/html[1]/body[2]/nav[1]/div[3]/div[2]/form[1]/button[2]",
+    "location": "http://127.0.0.1:8000/",
+    "ipAddress": "127.0.0.1",
+    "sessionId": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123"
+  }
+]

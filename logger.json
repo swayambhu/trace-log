@@ -1,4 +1,5 @@
 [
+<<<<<<< Updated upstream
 {
   "traces": [
     {
@@ -19990,3 +19991,449 @@
   },
   "timeTaken": 1
 }
+=======
+  {
+    "traceId": "917439c1-7799-438c-9100-0f5e2d59f53d",
+    "spanId": "0f5075b4-06f8-4b50-af1d-e858a8311ec6",
+    "timestamp": "2024-01-25T14:47:13.000Z",
+    "principal": "test123",
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123",
+    "ip": "127.0.0.1",
+    "request": {
+      "method": "GET",
+      "uri": "http://127.0.0.1:8000/",
+      "headers": {
+        "Content-Length": "",
+        "Content-Type": "text/plain",
+        "Host": "127.0.0.1:8000",
+        "Connection": "keep-alive",
+        "Sec-Ch-Ua": "\"Not A(Brand\";v=\"99\", \"Google Chrome\";v=\"121\", \"Chromium\";v=\"121\"",
+        "Sec-Ch-Ua-Mobile": "?0",
+        "Sec-Ch-Ua-Platform": "\"macOS\"",
+        "Upgrade-Insecure-Requests": "1",
+        "Dnt": "1",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "Sec-Fetch-Site": "same-origin",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-User": "?1",
+        "Sec-Fetch-Dest": "document",
+        "Referer": "http://127.0.0.1:8000/contact",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9,hi;q=0.8",
+        "Cookie": "PGADMIN_LANGUAGE=en; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzd2F5YW1iaHVAcGFya2V6LmNvbSIsImV4cCI6MTY5NjI3NjQ5M30.BtkLhkPkrHqORPU8bEtiTOs4GyVYWp0cAVX8MN7TTOE; csrftoken=bQG3VsWTJ3ljGqYiFGnJBGw1BhUjdOve; sessionid=8i4y3a91ok0q3d6ast3hnklld023eghr"
+      },
+      "remoteAddress": "127.0.0.1"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8",
+        "X-Trace-ID": "917439c1-7799-438c-9100-0f5e2d59f53d"
+      }
+    },
+    "timeTaken": 96
+  },
+  {
+    "traceId": "43f87e77-593a-4d4e-b4f2-d3652c4838b8",
+    "spanId": "bef3c8c2-8423-448b-9567-d007b487e046",
+    "timestamp": "2024-01-25T14:47:13.000Z",
+    "principal": "test123",
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123",
+    "ip": "127.0.0.1",
+    "request": {
+      "method": "GET",
+      "uri": "http://127.0.0.1:8000/",
+      "headers": {
+        "Content-Length": "",
+        "Content-Type": "text/plain",
+        "Host": "127.0.0.1:8000",
+        "Connection": "keep-alive",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "Dnt": "1",
+        "Accept": "*/*",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Dest": "empty",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9,hi;q=0.8",
+        "Cookie": "PGADMIN_LANGUAGE=en; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzd2F5YW1iaHVAcGFya2V6LmNvbSIsImV4cCI6MTY5NjI3NjQ5M30.BtkLhkPkrHqORPU8bEtiTOs4GyVYWp0cAVX8MN7TTOE; csrftoken=bQG3VsWTJ3ljGqYiFGnJBGw1BhUjdOve; sessionid=8i4y3a91ok0q3d6ast3hnklld023eghr"
+      },
+      "remoteAddress": "127.0.0.1"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8",
+        "X-Trace-ID": "43f87e77-593a-4d4e-b4f2-d3652c4838b8"
+      }
+    },
+    "timeTaken": 10
+  },
+  {
+    "traceId": "b093d7a3-2e71-4969-85f7-974c104d8bbf",
+    "spanId": "9d416d1b-a6e9-4480-958b-f0730a3e2dd5",
+    "timestamp": "2024-01-25T14:47:13.000Z",
+    "principal": "test123",
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123",
+    "ip": "127.0.0.1",
+    "request": {
+      "method": "GET",
+      "uri": "http://127.0.0.1:8000/",
+      "headers": {
+        "Content-Length": "",
+        "Content-Type": "text/plain",
+        "Host": "127.0.0.1:8000",
+        "Connection": "keep-alive",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "Dnt": "1",
+        "Accept": "*/*",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Dest": "empty",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9,hi;q=0.8",
+        "Cookie": "PGADMIN_LANGUAGE=en; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzd2F5YW1iaHVAcGFya2V6LmNvbSIsImV4cCI6MTY5NjI3NjQ5M30.BtkLhkPkrHqORPU8bEtiTOs4GyVYWp0cAVX8MN7TTOE; csrftoken=bQG3VsWTJ3ljGqYiFGnJBGw1BhUjdOve; sessionid=8i4y3a91ok0q3d6ast3hnklld023eghr"
+      },
+      "remoteAddress": "127.0.0.1"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8",
+        "X-Trace-ID": "b093d7a3-2e71-4969-85f7-974c104d8bbf"
+      }
+    },
+    "timeTaken": 12
+  },
+  {
+    "traceId": "743f1622-7a8a-4592-b5fa-c4fb766ec7fe",
+    "spanId": "73afcb75-5302-4a11-badb-b3e0438d4edb",
+    "timestamp": "2024-01-25T14:47:16.000Z",
+    "principal": "test123",
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123",
+    "ip": "127.0.0.1",
+    "request": {
+      "method": "GET",
+      "uri": "http://127.0.0.1:8000/getUserIp",
+      "headers": {
+        "Content-Length": "",
+        "Content-Type": "text/plain",
+        "Host": "127.0.0.1:8000",
+        "Connection": "keep-alive",
+        "Sec-Ch-Ua": "\"Not A(Brand\";v=\"99\", \"Google Chrome\";v=\"121\", \"Chromium\";v=\"121\"",
+        "Dnt": "1",
+        "Sec-Ch-Ua-Mobile": "?0",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "Sec-Ch-Ua-Platform": "\"macOS\"",
+        "Accept": "*/*",
+        "Sec-Fetch-Site": "same-origin",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Dest": "empty",
+        "Referer": "http://127.0.0.1:8000/",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9,hi;q=0.8",
+        "Cookie": "PGADMIN_LANGUAGE=en; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzd2F5YW1iaHVAcGFya2V6LmNvbSIsImV4cCI6MTY5NjI3NjQ5M30.BtkLhkPkrHqORPU8bEtiTOs4GyVYWp0cAVX8MN7TTOE; csrftoken=bQG3VsWTJ3ljGqYiFGnJBGw1BhUjdOve; sessionid=8i4y3a91ok0q3d6ast3hnklld023eghr"
+      },
+      "remoteAddress": "127.0.0.1"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "X-Trace-ID": "743f1622-7a8a-4592-b5fa-c4fb766ec7fe"
+      }
+    },
+    "timeTaken": 5
+  },
+  {
+    "traceId": "6e39d32b-c3a5-40f7-9234-477e5ec00a9a",
+    "spanId": "2d95eccd-4e42-4e6b-8808-8c635c7624d7",
+    "timestamp": "2024-01-25T14:47:16.000Z",
+    "principal": "test123",
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123",
+    "ip": "127.0.0.1",
+    "request": {
+      "method": "GET",
+      "uri": "http://127.0.0.1:8000/getUserIp",
+      "headers": {
+        "Content-Length": "",
+        "Content-Type": "text/plain",
+        "Host": "127.0.0.1:8000",
+        "Connection": "keep-alive",
+        "Sec-Ch-Ua": "\"Not A(Brand\";v=\"99\", \"Google Chrome\";v=\"121\", \"Chromium\";v=\"121\"",
+        "Dnt": "1",
+        "Sec-Ch-Ua-Mobile": "?0",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "Sec-Ch-Ua-Platform": "\"macOS\"",
+        "Accept": "*/*",
+        "Sec-Fetch-Site": "same-origin",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Dest": "empty",
+        "Referer": "http://127.0.0.1:8000/",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9,hi;q=0.8",
+        "Cookie": "PGADMIN_LANGUAGE=en; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzd2F5YW1iaHVAcGFya2V6LmNvbSIsImV4cCI6MTY5NjI3NjQ5M30.BtkLhkPkrHqORPU8bEtiTOs4GyVYWp0cAVX8MN7TTOE; csrftoken=bQG3VsWTJ3ljGqYiFGnJBGw1BhUjdOve; sessionid=8i4y3a91ok0q3d6ast3hnklld023eghr"
+      },
+      "remoteAddress": "127.0.0.1"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "X-Trace-ID": "6e39d32b-c3a5-40f7-9234-477e5ec00a9a"
+      }
+    },
+    "timeTaken": 7
+  },
+  {
+    "traceId": "1ed7d571-9cdf-4e8a-8b37-f942a3603201",
+    "spanId": "b47d4a03-138c-423b-9aba-48e2da1d7e94",
+    "timestamp": "2024-01-25T14:47:19.000Z",
+    "principal": "test123",
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123",
+    "ip": "127.0.0.1",
+    "request": {
+      "method": "GET",
+      "uri": "http://127.0.0.1:8000/search?query=something",
+      "headers": {
+        "Content-Length": "",
+        "Content-Type": "text/plain",
+        "Host": "127.0.0.1:8000",
+        "Connection": "keep-alive",
+        "Sec-Ch-Ua": "\"Not A(Brand\";v=\"99\", \"Google Chrome\";v=\"121\", \"Chromium\";v=\"121\"",
+        "Sec-Ch-Ua-Mobile": "?0",
+        "Sec-Ch-Ua-Platform": "\"macOS\"",
+        "Upgrade-Insecure-Requests": "1",
+        "Dnt": "1",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "Sec-Fetch-Site": "same-origin",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-User": "?1",
+        "Sec-Fetch-Dest": "document",
+        "Referer": "http://127.0.0.1:8000/",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9,hi;q=0.8",
+        "Cookie": "PGADMIN_LANGUAGE=en; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzd2F5YW1iaHVAcGFya2V6LmNvbSIsImV4cCI6MTY5NjI3NjQ5M30.BtkLhkPkrHqORPU8bEtiTOs4GyVYWp0cAVX8MN7TTOE; csrftoken=bQG3VsWTJ3ljGqYiFGnJBGw1BhUjdOve; sessionid=8i4y3a91ok0q3d6ast3hnklld023eghr"
+      },
+      "remoteAddress": "127.0.0.1"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8",
+        "X-Trace-ID": "1ed7d571-9cdf-4e8a-8b37-f942a3603201"
+      }
+    },
+    "timeTaken": 119
+  },
+  {
+    "traceId": "b707ee55-efb9-498e-bef4-6e28711e17db",
+    "spanId": "0ac13d54-3b0d-46ea-a9ec-b38ec2921486",
+    "timestamp": "2024-01-25T14:47:19.000Z",
+    "principal": "test123",
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123",
+    "ip": "127.0.0.1",
+    "request": {
+      "method": "POST",
+      "uri": "http://127.0.0.1:8000/client-log",
+      "headers": {
+        "Content-Length": "568",
+        "Content-Type": "application/json",
+        "Host": "127.0.0.1:8000",
+        "Connection": "keep-alive",
+        "Sec-Ch-Ua": "\"Not A(Brand\";v=\"99\", \"Google Chrome\";v=\"121\", \"Chromium\";v=\"121\"",
+        "Sec-Ch-Ua-Platform": "\"macOS\"",
+        "Dnt": "1",
+        "Sec-Ch-Ua-Mobile": "?0",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "Accept": "*/*",
+        "Origin": "http://127.0.0.1:8000",
+        "Sec-Fetch-Site": "same-origin",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Dest": "empty",
+        "Referer": "http://127.0.0.1:8000/",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9,hi;q=0.8",
+        "Cookie": "PGADMIN_LANGUAGE=en; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzd2F5YW1iaHVAcGFya2V6LmNvbSIsImV4cCI6MTY5NjI3NjQ5M30.BtkLhkPkrHqORPU8bEtiTOs4GyVYWp0cAVX8MN7TTOE; csrftoken=bQG3VsWTJ3ljGqYiFGnJBGw1BhUjdOve; sessionid=8i4y3a91ok0q3d6ast3hnklld023eghr"
+      },
+      "remoteAddress": "127.0.0.1"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "X-Trace-ID": "b707ee55-efb9-498e-bef4-6e28711e17db"
+      }
+    },
+    "timeTaken": 2
+  },
+  {
+    "traceId": "18ff2da1-c538-4bbd-a471-cdfadd3935e6",
+    "spanId": "c84e9f50-3b90-4c63-bdc5-bfff4225f4d1",
+    "timestamp": "2024-01-25T14:47:19.000Z",
+    "principal": "test123",
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123",
+    "ip": "127.0.0.1",
+    "request": {
+      "method": "POST",
+      "uri": "http://127.0.0.1:8000/client-log",
+      "headers": {
+        "Content-Length": "568",
+        "Content-Type": "application/json",
+        "Host": "127.0.0.1:8000",
+        "Connection": "keep-alive",
+        "Sec-Ch-Ua": "\"Not A(Brand\";v=\"99\", \"Google Chrome\";v=\"121\", \"Chromium\";v=\"121\"",
+        "Sec-Ch-Ua-Platform": "\"macOS\"",
+        "Dnt": "1",
+        "Sec-Ch-Ua-Mobile": "?0",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "Accept": "*/*",
+        "Origin": "http://127.0.0.1:8000",
+        "Sec-Fetch-Site": "same-origin",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Dest": "empty",
+        "Referer": "http://127.0.0.1:8000/",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9,hi;q=0.8",
+        "Cookie": "PGADMIN_LANGUAGE=en; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzd2F5YW1iaHVAcGFya2V6LmNvbSIsImV4cCI6MTY5NjI3NjQ5M30.BtkLhkPkrHqORPU8bEtiTOs4GyVYWp0cAVX8MN7TTOE; csrftoken=bQG3VsWTJ3ljGqYiFGnJBGw1BhUjdOve; sessionid=8i4y3a91ok0q3d6ast3hnklld023eghr"
+      },
+      "remoteAddress": "127.0.0.1"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "X-Trace-ID": "18ff2da1-c538-4bbd-a471-cdfadd3935e6"
+      }
+    },
+    "timeTaken": 117
+  },
+  {
+    "traceId": "b9b03e03-210e-4d9c-b62f-9ad8f68372c2",
+    "spanId": "b79dbccd-28a5-476d-b10c-1a0fbb089bc8",
+    "timestamp": "2024-01-25T14:47:19.000Z",
+    "principal": "test123",
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123",
+    "ip": "127.0.0.1",
+    "request": {
+      "method": "GET",
+      "uri": "http://127.0.0.1:8000/search?query=something",
+      "headers": {
+        "Content-Length": "",
+        "Content-Type": "text/plain",
+        "Host": "127.0.0.1:8000",
+        "Connection": "keep-alive",
+        "Sec-Ch-Ua": "\"Not A(Brand\";v=\"99\", \"Google Chrome\";v=\"121\", \"Chromium\";v=\"121\"",
+        "Sec-Ch-Ua-Mobile": "?0",
+        "Sec-Ch-Ua-Platform": "\"macOS\"",
+        "Upgrade-Insecure-Requests": "1",
+        "Dnt": "1",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "Sec-Fetch-Site": "same-origin",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-User": "?1",
+        "Sec-Fetch-Dest": "document",
+        "Referer": "http://127.0.0.1:8000/",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9,hi;q=0.8",
+        "Cookie": "PGADMIN_LANGUAGE=en; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzd2F5YW1iaHVAcGFya2V6LmNvbSIsImV4cCI6MTY5NjI3NjQ5M30.BtkLhkPkrHqORPU8bEtiTOs4GyVYWp0cAVX8MN7TTOE; csrftoken=bQG3VsWTJ3ljGqYiFGnJBGw1BhUjdOve; sessionid=8i4y3a91ok0q3d6ast3hnklld023eghr"
+      },
+      "remoteAddress": "127.0.0.1"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8",
+        "X-Trace-ID": "b9b03e03-210e-4d9c-b62f-9ad8f68372c2"
+      }
+    },
+    "timeTaken": 121
+  },
+  {
+    "traceId": "f4493d63-a1b5-4219-a758-5933eb354755",
+    "spanId": "1675ebf3-55b8-4330-8b5f-8382b24c4ca7",
+    "timestamp": "2024-01-25T14:47:19.000Z",
+    "principal": "test123",
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123",
+    "ip": "127.0.0.1",
+    "request": {
+      "method": "GET",
+      "uri": "http://127.0.0.1:8000/search?query=something",
+      "headers": {
+        "Content-Length": "",
+        "Content-Type": "text/plain",
+        "Host": "127.0.0.1:8000",
+        "Connection": "keep-alive",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "Dnt": "1",
+        "Accept": "*/*",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Dest": "empty",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9,hi;q=0.8",
+        "Cookie": "PGADMIN_LANGUAGE=en; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzd2F5YW1iaHVAcGFya2V6LmNvbSIsImV4cCI6MTY5NjI3NjQ5M30.BtkLhkPkrHqORPU8bEtiTOs4GyVYWp0cAVX8MN7TTOE; csrftoken=bQG3VsWTJ3ljGqYiFGnJBGw1BhUjdOve; sessionid=8i4y3a91ok0q3d6ast3hnklld023eghr"
+      },
+      "remoteAddress": "127.0.0.1"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8",
+        "X-Trace-ID": "f4493d63-a1b5-4219-a758-5933eb354755"
+      }
+    },
+    "timeTaken": 22
+  },
+  {
+    "traceId": "c834cc0d-a0cf-4c86-981c-104f0def9889",
+    "spanId": "3448d88f-1bf2-4648-97e4-13fa8da5bf81",
+    "timestamp": "2024-01-25T14:47:19.000Z",
+    "principal": "test123",
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "username": "test123",
+    "ip": "127.0.0.1",
+    "request": {
+      "method": "GET",
+      "uri": "http://127.0.0.1:8000/search?query=something",
+      "headers": {
+        "Content-Length": "",
+        "Content-Type": "text/plain",
+        "Host": "127.0.0.1:8000",
+        "Connection": "keep-alive",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "Dnt": "1",
+        "Accept": "*/*",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Dest": "empty",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Accept-Language": "en-US,en;q=0.9,hi;q=0.8",
+        "Cookie": "PGADMIN_LANGUAGE=en; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzd2F5YW1iaHVAcGFya2V6LmNvbSIsImV4cCI6MTY5NjI3NjQ5M30.BtkLhkPkrHqORPU8bEtiTOs4GyVYWp0cAVX8MN7TTOE; csrftoken=bQG3VsWTJ3ljGqYiFGnJBGw1BhUjdOve; sessionid=8i4y3a91ok0q3d6ast3hnklld023eghr"
+      },
+      "remoteAddress": "127.0.0.1"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/html; charset=utf-8",
+        "X-Trace-ID": "c834cc0d-a0cf-4c86-981c-104f0def9889"
+      }
+    },
+    "timeTaken": 24
+  }
+]
+>>>>>>> Stashed changes
