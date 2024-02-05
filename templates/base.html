@@ -1,3 +1,4 @@
+{% load static %}
 <!doctype html>
 <html lang="en">
   <head>
@@ -181,6 +182,8 @@
 {% endblock body %}
 
 {% block js %}
+
+
 {% endblock js %}
     <script>
      
@@ -288,6 +291,7 @@
 
       document.addEventListener('click', trackClick);
 
+<<<<<<< Updated upstream
       document.addEventListener('beforeFetch', () => {
         console.log('Fetch')
       })
@@ -296,15 +300,25 @@
         event.preventDefault()
 
         console.log("E", USER_CLICK_LOGS)
+=======
+      window.addEventListener('beforeunload', async function(event) {
+>>>>>>> Stashed changes
         // Your custom logic here
         const serializedLogs = JSON.stringify(USER_CLICK_LOGS);
 
          // Create a Blob from the serialized data
         const blob = new Blob([serializedLogs], { type: 'application/json' });
 
+<<<<<<< Updated upstream
         // Send the data using navigator.sendBeacon
         navigator.sendBeacon('/client-log', blob);
       });
+=======
+
+        // Send the data using navigator.sendBeacon
+        navigator.sendBeacon('/client-log', blob);
+      });                                                                                                                   
+>>>>>>> Stashed changes
    
       
       
