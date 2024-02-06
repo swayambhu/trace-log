@@ -1,0 +1,1358 @@
+[
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 1,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+      "click",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 1,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 2,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 3,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 4,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 5,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 6,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 7,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 8,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 9,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 10,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 11,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 12,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 13,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 14,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 15,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 16,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 1,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "click",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 17,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 18,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 19,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 20,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 21,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 22,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 23,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 24,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 25,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 26,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 27,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 28,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 29,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 30,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 31,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 32,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 33,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 34,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 35,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 36,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 37,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 38,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 39,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 40,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 41,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 42,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 43,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 44,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 45,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 46,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 47,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 48,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 49,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[4]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 50,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 51,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 52,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 53,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 54,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 55,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 56,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 57,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 58,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 59,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 60,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 61,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 62,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 63,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 64,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 65,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 66,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 67,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 68,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/div[5]/textarea[2]",
+      "input",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 69,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[5]/form[2]/button[6]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 1,
+    "pathID": [
+      "/html[1]/body[2]/div[5]/form[2]/button[6]",
+      "click",
+      "http://127.0.0.1:8000/contact"
+    ],
+    "eventCounter": 70,
+    "value": null,
+    "url": "http://127.0.0.1:8000/contact",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/nav[1]/div[3]/div[2]/button[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-06T14:47:55.607Z",
+    "pathID": [
+      "/html[1]/body[2]/nav[1]/div[3]/div[2]/button[2]",
+      "click",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 1,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-06T14:47:56.874Z",
+    "pathID": [
+      "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[2]/input[2]",
+      "click",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 2,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "actionType": "input",
+    "timeStamp": "2024-02-06T14:47:57.442Z",
+    "pathID": [
+      "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 3,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "actionType": "input",
+    "timeStamp": "2024-02-06T14:47:57.541Z",
+    "pathID": [
+      "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 4,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "actionType": "input",
+    "timeStamp": "2024-02-06T14:47:57.763Z",
+    "pathID": [
+      "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 5,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "actionType": "input",
+    "timeStamp": "2024-02-06T14:47:57.938Z",
+    "pathID": [
+      "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 6,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "actionType": "input",
+    "timeStamp": "2024-02-06T14:47:58.304Z",
+    "pathID": [
+      "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 7,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "actionType": "input",
+    "timeStamp": "2024-02-06T14:47:58.441Z",
+    "pathID": [
+      "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 8,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[2]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "actionType": "input",
+    "timeStamp": "2024-02-06T14:47:58.649Z",
+    "pathID": [
+      "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[2]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 9,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-06T14:47:59.395Z",
+    "pathID": [
+      "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[3]/input[2]",
+      "click",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 10,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "actionType": "input",
+    "timeStamp": "2024-02-06T14:47:59.686Z",
+    "pathID": [
+      "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 11,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "actionType": "input",
+    "timeStamp": "2024-02-06T14:47:59.832Z",
+    "pathID": [
+      "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 12,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "actionType": "input",
+    "timeStamp": "2024-02-06T14:48:00.054Z",
+    "pathID": [
+      "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 13,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "actionType": "input",
+    "timeStamp": "2024-02-06T14:48:00.224Z",
+    "pathID": [
+      "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 14,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "actionType": "input",
+    "timeStamp": "2024-02-06T14:48:00.546Z",
+    "pathID": [
+      "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 15,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "actionType": "input",
+    "timeStamp": "2024-02-06T14:48:00.662Z",
+    "pathID": [
+      "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 16,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[3]/input[2]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 2,
+    "actionType": "input",
+    "timeStamp": "2024-02-06T14:48:00.931Z",
+    "pathID": [
+      "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/div[3]/input[2]",
+      "input",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 17,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/button[4]",
+    "session": "NON LOGGED IN USER",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-06T14:48:01.807Z",
+    "pathID": [
+      "/html[1]/body[2]/div[3]/div[1]/div[1]/div[2]/form[1]/button[4]",
+      "click",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 18,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "NON LOGGED IN USER",
+    "ipAddress": "127.0.0.1"
+  }
+]

@@ -205,10 +205,16 @@
         console.log(userDetails)
       }
 
-      
+      let eventCounter = 0
+
+      if(localStorage.getItem("eventCounter")){
+        eventCounter = localStorage.getItem("eventCounter")
+      } else {
+        localStorage.setItem("eventCounter", 0)
+      }
       
       async function trackUser(event, actionType = null) {
-        console.log(actionType)
+        eventCounter++
        
         // Get timestamp
         const timestamp = new Date().toISOString();
@@ -250,11 +256,14 @@
           path: xpath,
           session: sessionId,
           actionID: actionID,
+          actionType: actionType,
+          timeStamp: timestamp,
           pathID: [xpath, actionType, location],
-          eventCounter: null,
+          eventCounter: eventCounter,
           value: null,
           url: location,
-          username
+          username,
+          ipAddress
         }
       
         // Create log entry
@@ -270,7 +279,7 @@
 
       
         // Send log entry to server or store it locally
-        USER_CLICK_LOGS.push(logEntry)
+        USER_CLICK_LOGS.push(clientTraceLog)
 
         
       }
@@ -299,7 +308,7 @@
       function sendLogToServer() {
         // Make an HTTP request to send log entry to the server
         // Example with Fetch API:
-        
+        localStorage.setItem("eventCounter", 0)
         fetch('/client-log', {
           method: 'POST',
           headers: {
