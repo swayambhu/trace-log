@@ -126,7 +126,8 @@ class HttpTraceMiddleware:
         if lock_handle:
             try:
                 
-
+                
+                
                 for value in ws.iter_rows(min_row=1, max_row=1, values_only=True):
                     headers = list(value)
 
@@ -147,6 +148,7 @@ class HttpTraceMiddleware:
                     while last_row > 1 and ws.cell(row=last_row, column=column_index).value is None:
                         last_row -= 1
 
+                    
                     # Insert the value in the next available row
                     ws.cell(row=last_row + 1, column=column_index, value=value)
 
