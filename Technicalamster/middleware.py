@@ -103,7 +103,7 @@ class HttpTraceMiddleware:
         
         trace_log = flatten_dict(trace_log)
         
-        file_path = "server_logs_new.xlsx"
+        file_path = "server_logs_v1.xlsx"
         
         """
             Create a new Excel file if it doesn't exist, and add the trace log as the first row.
