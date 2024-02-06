@@ -207,7 +207,8 @@
 
       
       
-      async function trackClick(event) {
+      async function trackUser(event, actionType = null) {
+        console.log(actionType)
        
         // Get timestamp
         const timestamp = new Date().toISOString();
@@ -232,6 +233,29 @@
       
         // Get username (Assuming you have a way to identify the user)
         const username = userDetails.USERNAME
+
+        let actionID = null
+
+        if (actionType === "click") {
+          actionID = 1
+        } else if (actionType === "input") {
+          actionID = 2
+        } else if (actionType === "drag") {
+          actionID = 3
+        } else if (actionType === "drop") {
+          actionID = 4
+        }
+
+        const clientTraceLog = {
+          path: xpath,
+          session: sessionId,
+          actionID: actionID,
+          pathID: [xpath, actionType, location],
+          eventCounter: null,
+          value: null,
+          url: location,
+          username
+        }
       
         // Create log entry
         const logEntry = {
@@ -241,8 +265,7 @@
           location,
           ipAddress,
           sessionId,
-          username,
-          // Add any other relevant information
+          username
         };
 
       
@@ -289,36 +312,24 @@
       
       
 
-      document.addEventListener('click', trackClick);
+      document.addEventListener('click', (event) => trackUser(event, "click"));      
+      document.addEventListener('input', (event) => trackUser(event, "input"));      
+      document.addEventListener('dragstart', (event) => trackUser(event, "drag"));      
+      document.addEventListener('drop', (event) => trackUser(event, "drop"));      
 
-<<<<<<< Updated upstream
-      document.addEventListener('beforeFetch', () => {
-        console.log('Fetch')
-      })
 
       window.addEventListener('beforeunload', async function(event) {
-        event.preventDefault()
 
-        console.log("E", USER_CLICK_LOGS)
-=======
-      window.addEventListener('beforeunload', async function(event) {
->>>>>>> Stashed changes
         // Your custom logic here
         const serializedLogs = JSON.stringify(USER_CLICK_LOGS);
 
          // Create a Blob from the serialized data
         const blob = new Blob([serializedLogs], { type: 'application/json' });
 
-<<<<<<< Updated upstream
-        // Send the data using navigator.sendBeacon
-        navigator.sendBeacon('/client-log', blob);
-      });
-=======
 
         // Send the data using navigator.sendBeacon
         navigator.sendBeacon('/client-log', blob);
       });                                                                                                                   
->>>>>>> Stashed changes
    
       
       
