@@ -253,5 +253,431 @@
     "url": "http://127.0.0.1:8000/contact",
     "username": "NON LOGGED IN USER",
     "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": [
+      "/html[1]/body[2]/nav[1]/div[3]/div[2]/form[1]/input[1]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:13:27.381Z",
+    "pathID": [
+      "/html[1]/body[2]/nav[1]/div[3]/div[2]/form[1]/input[1]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "eventCounter": 1,
+    "value": null,
+    "url": "http://127.0.0.1:8000/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": [
+      "/html[1]/body[2]/nav[1]/div[3]/div[2]/form[1]/input[1]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:13:44.965Z",
+    "pathID": [
+      "/html[1]/body[2]/nav[1]/div[3]/div[2]/form[1]/input[1]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "eventCounter": 1,
+    "value": null,
+    "url": "http://127.0.0.1:8000/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": [
+      "/html[1]/body[2]/div[4]/div[1]/a[5]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:14:29.531Z",
+    "pathID": [
+      "/html[1]/body[2]/div[4]/div[1]/a[5]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "eventCounter": 2,
+    "value": null,
+    "url": "http://127.0.0.1:8000/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": [
+      "/html[1]/body[2]/nav[1]/div[3]/div[2]/form[1]/input[1]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:15:07.179Z",
+    "pathID": [
+      "/html[1]/body[2]/nav[1]/div[3]/div[2]/form[1]/input[1]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "eventCounter": 1,
+    "value": null,
+    "url": "http://127.0.0.1:8000/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": [
+      "/html[1]/body[2]/nav[1]/div[3]/div[2]/form[1]/input[1]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:15:27.845Z",
+    "pathID": [
+      "/html[1]/body[2]/nav[1]/div[3]/div[2]/form[1]/input[1]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "eventCounter": 1,
+    "value": null,
+    "url": "http://127.0.0.1:8000/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": [
+      "/html[1]/body[2]/nav[1]/div[3]/div[2]/form[1]/input[1]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:15:36.730Z",
+    "pathID": [
+      "/html[1]/body[2]/nav[1]/div[3]/div[2]/form[1]/input[1]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "eventCounter": 1,
+    "value": null,
+    "url": "http://127.0.0.1:8000/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": [
+      "/html[1]/body[2]/div[4]/div[1]/a[5]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:16:48.180Z",
+    "pathID": [
+      "/html[1]/body[2]/div[4]/div[1]/a[5]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "eventCounter": 1,
+    "value": null,
+    "url": "http://127.0.0.1:8000/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": [
+      "/html[1]/body[2]/div[4]/div[1]/a[5]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:17:11.444Z",
+    "pathID": [
+      "/html[1]/body[2]/div[4]/div[1]/a[5]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "eventCounter": 1,
+    "value": null,
+    "url": "http://127.0.0.1:8000/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": [
+      "/html[1]/body[2]/nav[1]/div[3]/div[2]/form[1]/input[1]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:17:30.227Z",
+    "pathID": [
+      "/html[1]/body[2]/nav[1]/div[3]/div[2]/form[1]/input[1]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "eventCounter": 2,
+    "value": null,
+    "url": "http://127.0.0.1:8000/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": [
+      "/html[1]/body[2]/div[4]/div[1]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:17:32.629Z",
+    "pathID": [
+      "/html[1]/body[2]/div[4]/div[1]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "eventCounter": 3,
+    "value": null,
+    "url": "http://127.0.0.1:8000/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": [
+      "/html[1]/body[2]/div[4]/div[1]/a[5]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:20:33.675Z",
+    "pathID": [
+      "/html[1]/body[2]/div[4]/div[1]/a[5]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "eventCounter": 1,
+    "value": null,
+    "url": "http://127.0.0.1:8000/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": [
+      "/html[1]/body[2]/div[4]/div[1]/a[5]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:21:04.442Z",
+    "pathID": [
+      "/html[1]/body[2]/div[4]/div[1]/a[5]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "eventCounter": 1,
+    "value": null,
+    "url": "http://127.0.0.1:8000/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "elementLabel": "ssn ",
+    "path": [
+      "/html[1]/body[2]/div[4]/div[2]/div[1]/div[1]/h3[2]/a[1]",
+      "click",
+      "http://127.0.0.1:8000/blog/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:28:09.179Z",
+    "pathID": [
+      "/html[1]/body[2]/div[4]/div[2]/div[1]/div[1]/h3[2]/a[1]",
+      "click",
+      "http://127.0.0.1:8000/blog/"
+    ],
+    "eventCounter": 2,
+    "value": null,
+    "url": "http://127.0.0.1:8000/blog/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "elementLabel": null,
+    "path": [
+      null,
+      "beforeunload",
+      "http://127.0.0.1:8000/blog/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": null,
+    "actionType": "beforeunload",
+    "timeStamp": "2024-02-07T14:28:09.185Z",
+    "pathID": [
+      null,
+      "beforeunload",
+      "http://127.0.0.1:8000/blog/"
+    ],
+    "eventCounter": 2,
+    "value": null,
+    "url": "http://127.0.0.1:8000/blog/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "elementLabel": "Continue reading",
+    "path": [
+      "/html[1]/body[2]/div[5]/div[2]/div[1]/div[1]/a[5]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:29:09.528Z",
+    "pathID": [
+      "/html[1]/body[2]/div[5]/div[2]/div[1]/div[1]/a[5]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "eventCounter": 1,
+    "value": null,
+    "url": "http://127.0.0.1:8000/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "elementLabel": "Continue reading",
+    "path": [
+      "/html[1]/body[2]/div[5]/div[2]/div[1]/div[1]/a[5]",
+      "click",
+      "http://127.0.0.1:8000/#"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:29:12.892Z",
+    "pathID": [
+      "/html[1]/body[2]/div[5]/div[2]/div[1]/div[1]/a[5]",
+      "click",
+      "http://127.0.0.1:8000/#"
+    ],
+    "eventCounter": 2,
+    "value": null,
+    "url": "http://127.0.0.1:8000/#",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "elementLabel": "Go To Blog",
+    "path": [
+      "/html[1]/body[2]/div[4]/div[1]/a[5]",
+      "click",
+      "http://127.0.0.1:8000/#"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:29:15.226Z",
+    "pathID": [
+      "/html[1]/body[2]/div[4]/div[1]/a[5]",
+      "click",
+      "http://127.0.0.1:8000/#"
+    ],
+    "eventCounter": 3,
+    "value": null,
+    "url": "http://127.0.0.1:8000/#",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": [
+      null,
+      "click",
+      "http://127.0.0.1:8000/#"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:29:15.228Z",
+    "pathID": [
+      null,
+      "click",
+      "http://127.0.0.1:8000/#"
+    ],
+    "eventCounter": 4,
+    "value": null,
+    "url": "http://127.0.0.1:8000/#",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "elementLabel": "Go To Blog",
+    "path": [
+      "/html[1]/body[2]/div[4]/div[1]/a[5]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:32:22.222Z",
+    "pathID": [
+      "/html[1]/body[2]/div[4]/div[1]/a[5]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "eventCounter": 2,
+    "value": null,
+    "url": "http://127.0.0.1:8000/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "path": [
+      null,
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T14:32:22.227Z",
+    "pathID": [
+      null,
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "eventCounter": 2,
+    "value": null,
+    "url": "http://127.0.0.1:8000/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
   }
 ]

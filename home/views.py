@@ -171,7 +171,7 @@ def storeClientLogs(request):
 
         # Try to read existing logs, initialize as an empty list if the file is empty or not found
         try:
-            with open('Client_logger_v1.json', 'r') as file:
+            with open('Client_logger__demo_v1.json', 'r') as file:
                 existing_logs = json.load(file)
         except (FileNotFoundError, json.JSONDecodeError):
             existing_logs = []
@@ -180,7 +180,7 @@ def storeClientLogs(request):
         combined_logs = existing_logs + logs
 
         # Write the combined logs back to the file
-        with open('Client_logger_v1.json', 'w') as file:
+        with open('Client_logger__demo_v1.json', 'w') as file:
             file.write(json.dumps(combined_logs, indent=2))
             file.write('\n')
 

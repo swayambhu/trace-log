@@ -1,0 +1,178 @@
+[
+  {
+    "elementLabel": "",
+    "path": [
+      "/html/body/nav/button/span",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T18:50:56.302Z",
+    "pathID": [
+      "/html/body/nav/button/span",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "eventCounter": 1,
+    "value": null,
+    "url": "http://127.0.0.1:8000/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "elementLabel": "",
+    "path": [
+      "//*[@id=\"query\"]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T18:50:58.732Z",
+    "pathID": [
+      "//*[@id=\"query\"]",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "eventCounter": 2,
+    "value": null,
+    "url": "http://127.0.0.1:8000/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "elementLabel": "About",
+    "path": [
+      "/html/body/nav/div/ul/li[2]/a",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T18:51:01.484Z",
+    "pathID": [
+      "/html/body/nav/div/ul/li[2]/a",
+      "click",
+      "http://127.0.0.1:8000/"
+    ],
+    "eventCounter": 3,
+    "value": null,
+    "url": "http://127.0.0.1:8000/",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "elementLabel": "",
+    "path": [
+      "/html/body/nav/button/span",
+      "click",
+      "http://127.0.0.1:8000/about"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T18:51:24.467Z",
+    "pathID": [
+      "/html/body/nav/button/span",
+      "click",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 1,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "elementLabel": "Login",
+    "path": [
+      "/html/body/nav/div/div/button",
+      "click",
+      "http://127.0.0.1:8000/about"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T18:51:26.233Z",
+    "pathID": [
+      "/html/body/nav/div/div/button",
+      "click",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 2,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "elementLabel": "",
+    "path": [
+      "//*[@id=\"loginusername\"]",
+      "click",
+      "http://127.0.0.1:8000/about"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T18:51:27.632Z",
+    "pathID": [
+      "//*[@id=\"loginusername\"]",
+      "click",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 3,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "elementLabel": "\u00d7",
+    "path": [
+      "/html/body/div[2]/div/div/div/button/span",
+      "click",
+      "http://127.0.0.1:8000/about"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T18:51:29.935Z",
+    "pathID": [
+      "/html/body/div[2]/div/div/div/button/span",
+      "click",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 4,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "elementLabel": "Contact",
+    "path": [
+      "/html/body/nav/div/ul/li[4]/a",
+      "click",
+      "http://127.0.0.1:8000/about"
+    ],
+    "session": "d411f4cc55db93ca8aff506a855f61d167012c4b1fd97a6f3a208da04bd1817f",
+    "actionID": 1,
+    "actionType": "click",
+    "timeStamp": "2024-02-07T18:51:31.733Z",
+    "pathID": [
+      "/html/body/nav/div/ul/li[4]/a",
+      "click",
+      "http://127.0.0.1:8000/about"
+    ],
+    "eventCounter": 5,
+    "value": null,
+    "url": "http://127.0.0.1:8000/about",
+    "username": "test123",
+    "ipAddress": "127.0.0.1"
+  }
+]

@@ -186,24 +186,77 @@
 
 {% endblock js %}
     <script>
-     
       
+      
+      
+      
+      function getElementXPath(element)
+      {
+        if (element && element.id)
+          return '//*[@id="' + element.id + '"]';
+        else
+          return getElementTreeXPath(element);
+      };
+      
+      function getElementTreeXPath(element)
+      {
+        var paths = [];
+        
+        // Use nodeName (instead of localName) so namespace prefix is included (if any).
+        for (; element && element.nodeType == 1; element = element.parentNode)
+        {
+          var index = 0;
+          for (var sibling = element.previousSibling; sibling; sibling = sibling.previousSibling)
+          {
+            // Ignore document type declaration.
+            if (sibling.nodeType == Node.DOCUMENT_TYPE_NODE)
+              continue;
+            
+            if (sibling.nodeName == element.nodeName)
+              ++index;
+          }
+          
+          var tagName = element.nodeName.toLowerCase();
+          var pathIndex = (index ? "[" + (index+1) + "]" : "");
+          paths.splice(0, 0, tagName + pathIndex);
+        }
+        
+        return paths.length ? "/" + paths.join("/") : null;
+      };
+      
+
+
+
       let userDetails = {
         IP_ADDRESS: null,
         SESSION_ID: null,
         USERNAME: null
       }  
-
-      const USER_CLICK_LOGS = []
-
+     
       const getUserDetails = async() => {
         const {ip_address, session_hash, username} = await fetch("/getUserIp").then(res => res.json()).then(data => data)
-        userDetails.IP_ADDRESS = ip_address
-        userDetails.SESSION_ID = session_hash
-        userDetails.USERNAME = username
-
-        console.log(userDetails)
+        return {ip_address, session_hash, username}
       }
+
+      
+      
+      const storeUserDetails = async() => {
+
+        if(localStorage.getItem("userDetails")){
+          userDetails = JSON.parse(localStorage.getItem("userDetails"))
+        } else {
+          const {ip_address, session_hash, username} = await getUserDetails()
+          console.log("IP,session,username",ip_address, session_hash, username)
+          userDetails.IP_ADDRESS = ip_address
+          userDetails.SESSION_ID = session_hash
+          userDetails.USERNAME = username
+          console.log("USER DETAILS", userDetails)
+          localStorage.setItem("userDetails", JSON.stringify(userDetails))
+        }
+      }
+      storeUserDetails()
+      const USER_CLICK_LOGS = []
+
 
       let eventCounter = 0
 
@@ -212,15 +265,24 @@
       } else {
         localStorage.setItem("eventCounter", 0)
       }
+
+      let c_event = null
       
       async function trackUser(event, actionType = null) {
+        if (event.target.tagName === 'A') {
+          // Prevent the default behavior (e.g., hyperlink navigation)
+          event.preventDefault();
+        }
         eventCounter++
+        
        
         // Get timestamp
         const timestamp = new Date().toISOString();
       
         // Get Xpath of the clicked element
-        const xpath = getXpath(event.target);
+        
+        
+        const xpath = getElementXPath(event.target);
       
         // Get current location
         const location = window.location.href;
@@ -241,11 +303,16 @@
         const username = userDetails.USERNAME
 
         let actionID = null
-
+        let elementLabel = null
+        c_event = event
         if (actionType === "click") {
           actionID = 1
+          console.log("event.target", event.target)     
+          
+          elementLabel = event.target.innerText
         } else if (actionType === "input") {
           actionID = 2
+          elementLabel = event.target.placeholder
         } else if (actionType === "drag") {
           actionID = 3
         } else if (actionType === "drop") {
@@ -253,6 +320,7 @@
         }
 
         const clientTraceLog = {
+          elementLabel: elementLabel,
           path: [xpath, actionType, location],
           session: sessionId,
           actionID: actionID,
@@ -280,7 +348,9 @@
       
         // Send log entry to server or store it locally
         USER_CLICK_LOGS.push(clientTraceLog)
-
+        if(event.target.tagName === "A"){
+          window.location.href = event.target.href;
+        }
         
       }
       
@@ -328,16 +398,8 @@
 
 
       window.addEventListener('beforeunload', async function(event) {
-
-        // Your custom logic here
-        const serializedLogs = JSON.stringify(USER_CLICK_LOGS);
-
-         // Create a Blob from the serialized data
-        const blob = new Blob([serializedLogs], { type: 'application/json' });
-
-
-        // Send the data using navigator.sendBeacon
-        navigator.sendBeacon('/client-log', blob);
+        
+        await sendLogToServer()
       });                                                                                                                   
    
       
@@ -349,5 +411,5 @@
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    </html>
   </body>
-</html>
